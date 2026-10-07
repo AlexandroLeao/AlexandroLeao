@@ -11,6 +11,7 @@ Com bagagem prática em **suporte técnico de TI**, **gestão de processos** e *
 ### Stacks & Tecnologias
 
 **Frontend & UX/UI**
+<br/>
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -18,7 +19,10 @@ Com bagagem prática em **suporte técnico de TI**, **gestão de processos** e *
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+<br/>
+
 **Backend & Banco de Dados**
+<br/>
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -26,12 +30,14 @@ Com bagagem prática em **suporte técnico de TI**, **gestão de processos** e *
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+<br/>
+
 **Engenharia de Software, Ágil & Ferramentas**
+<br/>
 ![Scrum](https://img.shields.io/badge/Scrum-004088?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![UML](https://img.shields.io/badge/UML-000000?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
 ---
 
 ### Projetos em Destaque
