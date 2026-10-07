@@ -41,11 +41,11 @@ Com bagagem prática em **suporte técnico de TI**, **gestão de processos** e *
 
 ### Projetos em Destaque
 
-* **[Gestão de Ideias & Projetos](https://app-project-ideias.vercel.app/)** | **[REPOSITÓRIO](https://github.com/AlexandroLeao/app-project-ideias)**
+* **[Gestão de Ideias & Projetos](https://app-project-ideias.vercel.app/)** | **[Repositório](https://github.com/AlexandroLeao/app-project-ideias)**
   Aplicação web para gestão do projetos pessoais e ideias, focada no ciclo de vida de software, engenharia de requisitos e UX minimalista. Permite categorizar ideias, definir prazos, prioridades, favoritar e anexar arquivos de apoio.
   * **Techs:** React, TypeScript, TanStack Start, Drizzle ORM, Supabase, Tailwind CSS.
 
-* **[Natsu Matsuri System](https://alexandroleao.github.io/Natsu-Matsuri-Project/)** | **[REPOSITÓRIO](https://github.com/AlexandroLeao/Natsu-Matsuri-Project)**
+* **[Natsu Matsuri System](https://alexandroleao.github.io/Natsu-Matsuri-Project/)** | **[Repositório](https://github.com/AlexandroLeao/Natsu-Matsuri-Project)**
   Sistema Full Stack desenvolvido para o *Centro de Reabilitação Social Kosei Home* focado no gerenciamento financeiro e controle de estoque de vendas em eventos. Automatizou cálculos de caixa e troco, garantindo precisão e substituindo o processo manual antigo.
   * **Techs:** React.js, JavaScript, UX/UI Design, Gestão de Estoque.
 
