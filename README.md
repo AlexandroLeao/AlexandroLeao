@@ -50,6 +50,13 @@ Com bagagem prática em **suporte técnico de TI**, **gestão de processos** e *
 
 ---
 
+### Estatísticas no GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexandroLeao&show_icons=true&theme=onedark&count_private=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandroLeao&layout=compact&theme=onedark" alt="Linguagens mais utilizadas" />
+</div>
+
 ### Redes & Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandroleao/)
@@ -57,10 +64,3 @@ Com bagagem prática em **suporte técnico de TI**, **gestão de processos** e *
 [![Portfólio GitHub](https://img.shields.io/badge/GitHub_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexandroLeao)
 
 ---
-
-### Estatísticas no GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexandroLeao&show_icons=true&theme=onedark&count_private=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandroLeao&layout=compact&theme=onedark" alt="Linguagens mais utilizadas" />
-</div>
