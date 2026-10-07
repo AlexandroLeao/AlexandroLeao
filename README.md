@@ -1,4 +1,4 @@
-### Olá! Eu sou o Alexandro Milhomes Leão
+### Olá! me chamo Alexandro Milhomes Leão
 
 **Software Engineer | Full Stack Developer | Analyst IT**
 
