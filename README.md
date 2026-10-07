@@ -58,6 +58,8 @@ Com bagagem prática em **suporte técnico de TI**, **gestão de processos** e *
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandroLeao&layout=compact&theme=onedark" alt="Linguagens mais utilizadas" />
 </div>
 
+---
+
 ### Redes & Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandroleao/)
