@@ -8,7 +8,7 @@ Com bagagem prática em **suporte técnico de TI**, **gestão de processos** e *
 
 ### Stacks & Tecnologias
 
-**Frontend & UX/UI**
+**Frontend & UX**
 <br/>
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -30,12 +30,13 @@ Com bagagem prática em **suporte técnico de TI**, **gestão de processos** e *
 
 <br/>
 
-**Engenharia de Software, Ágil & Ferramentas**
+**Ferramentas & Metodologias**
 <br/>
 ![Scrum](https://img.shields.io/badge/Scrum-004088?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![UML](https://img.shields.io/badge/UML-000000?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
 ---
 
 ### Projetos em Destaque
