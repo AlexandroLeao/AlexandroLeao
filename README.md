@@ -1,27 +1,62 @@
-### Olá! Eu sou o Alexandro Milhomes Leão ✌️
+### Olá! Eu sou o Alexandro Milhomes Leão
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandroleao/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alexandro_milhomes/)
+**Software Engineer | Full Stack Developer | Analyst IT**
 
-![Alexandro GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandroLeao&show_icons=true&theme=onedark)
+Sou formado em **Análise e Desenvolvimento de Sistemas** e apaixonado por transformar necessidades reais em soluções digitais eficientes. Tenho experiência no desenvolvimento de aplicações Full Stack (React, Node.js, Python), engenharia de requisitos (UML, Scrum) e design de interfaces (UX/UI).
 
-### Tecnologias que eu utilizo: 
-<div style="display: inline_block"><br/>
-   <img align="center" alt="javascript" src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black />
-   <img align="center" alt="reactjs" src=https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB />
-   <img align="center" alt="angular" src=https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white />
-   <img align="center" alt="typescript" src=https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white />
-   <img align="center" alt="jquery" src=https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white />
-   <img align="center" alt="nodejs" src=https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white />
-   <img align="center" alt="expressjs" src=https://img.shields.io/badge/Express.js-404D59?style=for-the-badge />
-   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-   <img align="center" alt="css3" src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white />
-   <img align="center" alt="bootstrap" src=https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white />
-   <img align="center" alt="mysql" src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white />
-   <img align="center" alt="mongodb" src=https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white />
-   <img align="center" alt="figma" src=https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white />
-   <img align="center" alt="git" src=https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white />
+Com bagagem prática em **suporte técnico de TI**, **gestão de processos** e **liderança de equipes**, possuo uma visão holística que conecta tecnologia, pessoas e resultados de negócios.
 
-   </div>   
-   
+---
+
+### Stacks & Tecnologias
+
+**Frontend & UX/UI**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+**Backend & Banco de Dados**
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Engenharia de Software, Ágil & Ferramentas**
+![Scrum](https://img.shields.io/badge/Scrum-004088?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![UML](https://img.shields.io/badge/UML-000000?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+---
+
+### Projetos em Destaque
+
+* **[Gestão de Ideias & Projetos](https://app-project-ideias.vercel.app/)** | **[Repositório](https://github.com/AlexandroLeao/app-project-ideias)**
+  Aplicação web para gestão do projetos pessoais e ideias, focada no ciclo de vida de software, engenharia de requisitos e UX minimalista. Permite categorizar ideias, definir prazos, prioridades, favoritar e anexar arquivos de apoio.
+  * **Techs:** React, TypeScript, TanStack Start, Drizzle ORM, Supabase, Tailwind CSS.
+
+* **[Natsu Matsuri System](https://alexandroleao.github.io/Natsu-Matsuri-Project/)** | **[Repositório](https://github.com/AlexandroLeao/Natsu-Matsuri-Project)**
+  Sistema Full Stack desenvolvido para o *Centro de Reabilitação Social Kosei Home* focado no gerenciamento financeiro e controle de estoque de vendas em eventos. Automatizou cálculos de caixa e troco, garantindo precisão e substituindo o processo manual antigo.
+  * **Techs:** React.js, JavaScript, UX/UI Design, Gestão de Estoque.
+
+---
+
+### Redes & Links
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandroleao/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexmilhomes.aml@gmail.com)
+[![Portfólio GitHub](https://img.shields.io/badge/GitHub_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexandroLeao)
+
+---
+
+### Estatísticas no GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexandroLeao&show_icons=true&theme=onedark&count_private=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandroLeao&layout=compact&theme=onedark" alt="Linguagens mais utilizadas" />
+</div>
