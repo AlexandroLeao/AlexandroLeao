@@ -1,6 +1,6 @@
 ### Olá! me chamo Alexandro Milhomes Leão
 
-Sou formado em **Análise e Desenvolvimento de Sistemas** e apaixonado por transformar necessidades reais em soluções digitais eficientes. Tenho experiência no desenvolvimento de aplicações Full Stack (React, Node.js, Python), engenharia de requisitos (UML, Scrum) e design de interfaces (UX/UI).
+Sou um **Engenheiro de Software** formado em **Análise e Desenvolvimento de Sistemas** e apaixonado por transformar necessidades reais em soluções digitais eficientes. Tenho experiência no desenvolvimento de aplicações Full Stack (React, Node.js, Python), engenharia de requisitos (UML, Scrum) e design de interfaces (UX/UI).
 
 Com bagagem prática em **suporte técnico de TI**, **gestão de processos** e **liderança de equipes**, possuo uma visão holística que conecta tecnologia, pessoas e resultados de negócios.
 
