@@ -3,10 +3,11 @@
 # Alexandro Milhomes Leão
 
 <a href="https://github.com/AlexandroLeao">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer;Software+Engineer;React;JavaScript;TypeScript;Node.js;Express;REST+APIs;PostgreSQL;Java;Scrum" alt="Animação com as minhas stacks" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Developer;Software+Engineer;React+%E2%80%A2+JavaScript+%E2%80%A2+TypeScript;Node.js+%E2%80%A2+Express+%E2%80%A2+REST+APIs;PostgreSQL+%E2%80%A2+Java+%E2%80%A2+Scrum" alt="Animação com as minhas stacks" />
 </a>
 
 </div>
+
 ---
 
 ### Stacks & Tecnologias
