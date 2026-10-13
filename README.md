@@ -38,8 +38,8 @@ Minha trajetória profissional é marcada por desafios superados com determinaç
 Meu objetivo é continuar evoluindo como desenvolvedor, aprofundando conhecimentos em engenharia de software, backend, automação, inteligência artificial e computação em nuvem. Quero ampliar minha capacidade de criar soluções cada vez mais eficientes, integrando tecnologias e transformando problemas reais em resultados sustentáveis.
 
 ---
-
 ### Projetos em Destaque
+---
 
 * **[Gestão de Ideias & Projetos](https://app-project-ideias.vercel.app/)** | **[Repositório](https://github.com/AlexandroLeao/app-project-ideias)** |
   Aplicação web para gestão do projetos pessoais e ideias, focada no ciclo de vida de software, engenharia de requisitos e UX minimalista. Permite categorizar ideias, definir prazos, prioridades, favoritar e anexar arquivos de apoio.
@@ -50,8 +50,8 @@ Meu objetivo é continuar evoluindo como desenvolvedor, aprofundando conheciment
   * **Techs:** React.js, JavaScript, UX/UI Design, Gestão de Estoque.
 
 ---
-
 ### Estatísticas no GitHub
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlexandroLeao&show_icons=true&theme=onedark&count_private=true" alt="Estatísticas do GitHub" />
@@ -59,8 +59,8 @@ Meu objetivo é continuar evoluindo como desenvolvedor, aprofundando conheciment
 </div>
 
 ---
-
 ### Redes & Links
+---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandroleao/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexmilhomes.aml@gmail.com)
