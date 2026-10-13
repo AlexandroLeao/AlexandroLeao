@@ -1,9 +1,12 @@
-### Olá! me chamo Alexandro Milhomes Leão
+<div align="center">
 
-Sou um **Engenheiro de Software** formado em **Análise e Desenvolvimento de Sistemas** e apaixonado por transformar necessidades reais em soluções digitais eficientes. Tenho experiência no desenvolvimento de aplicações Full Stack (React, Node.js, Python), engenharia de requisitos (UML, Scrum) e design de interfaces (UX/UI).
+# Alexandro Milhomes Leão
 
-Com bagagem prática em **suporte técnico de TI**, **gestão de processos** e **liderança de equipes**, possuo uma visão holística que conecta tecnologia, pessoas e resultados de negócios.
+<a href="https://github.com/AlexandroLeao">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer;Software+Engineer;React;JavaScript;TypeScript;Node.js;Express;REST+APIs;PostgreSQL;Java;Scrum" alt="Animação com as minhas stacks" />
+</a>
 
+</div>
 ---
 
 ### Stacks & Tecnologias
