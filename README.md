@@ -34,6 +34,7 @@ Sou Desenvolvedor de Software, formado em Análise e Desenvolvimento de Sistemas
 Gosto de compreender os desafios por trás de cada necessidade e desenvolver ferramentas que simplifiquem processos e gerem resultados. Essa abordagem já me levou a criar soluções para gestão de vendas, controle de estoque e organização de projetos pessoais.
 
 Minha trajetória também fortaleceu habilidades como comunicação, liderança e resolução de problemas. Busco evoluir continuamente em engenharia de software, backend, automação, inteligência artificial e computação em nuvem.
+
 ---
 ### Projetos em Destaque
 ---
