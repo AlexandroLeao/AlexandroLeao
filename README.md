@@ -29,14 +29,11 @@
 ---
 ### Sobre
 ---
-Sou Desenvolvedor de Software, formado em Análise e Desenvolvimento de Sistemas, e vejo a tecnologia como ferramenta para resolver problemas reais do dia a dia. Busco compreender a necessidade por trás de cada situação para construir a solução mais eficiente e assertiva.
+Sou Desenvolvedor de Software, formado em Análise e Desenvolvimento de Sistemas, e acredito no potencial da tecnologia para transformar problemas reais em soluções eficientes.
 
-Essa visão me levou a criar ferramentas úteis em contextos distintos, como quando, em um evento de cultura japonesa em que atuei, desenvolvi um sistema web para substituir o controle manual de vendas, automatizando o troco, o estoque em tempo real e a rastreabilidade financeira. Ou quando estruturei um organizador de ideias e projetos, que reúne meus planos soltos em um só lugar e me permite organizar, ajustar e acompanhar cada um deles até se tornarem iniciativas concretas.
+Gosto de compreender os desafios por trás de cada necessidade e desenvolver ferramentas que simplifiquem processos e gerem resultados. Essa abordagem já me levou a criar soluções para gestão de vendas, controle de estoque e organização de projetos pessoais.
 
-Minha trajetória profissional é marcada por desafios superados com determinação e foco. No varejo de tecnologia, parti de um início difícil até ser premiado com o 1º lugar em desempenho entre as filiais da minha cidade já no primeiro mês, com mais de R$ 75 mil em faturamento individual, mantendo mais de R$ 50 mil nos meses seguintes. Além de auxiliar no pós-venda, orientar equipes e conduzir o onboarding de novos colaboradores, fortaleci minha comunicação, liderança e capacidade de resolver problemas sob pressão, competências essenciais para quem atua com tecnologia.
-
-Meu objetivo é continuar evoluindo como desenvolvedor, aprofundando conhecimentos em engenharia de software, backend, automação, inteligência artificial e computação em nuvem. Quero ampliar minha capacidade de criar soluções cada vez mais eficientes, integrando tecnologias e transformando problemas reais em resultados sustentáveis.
-
+Minha trajetória também fortaleceu habilidades como comunicação, liderança e resolução de problemas. Busco evoluir continuamente em engenharia de software, backend, automação, inteligência artificial e computação em nuvem.
 ---
 ### Projetos em Destaque
 ---
