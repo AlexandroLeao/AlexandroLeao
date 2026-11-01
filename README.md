@@ -56,7 +56,7 @@ Minha trajetória também fortaleceu habilidades como comunicação, liderança 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandroLeao&layout=compact&theme=onedark" alt="Linguagens mais utilizadas" />
 </div>
 
---
+---
 ### Redes & Links
 ---
 
