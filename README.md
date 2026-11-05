@@ -48,15 +48,6 @@ Minha trajetória também fortaleceu habilidades como comunicação, liderança 
   * **Techs:** React.js, JavaScript, UX/UI Design, Gestão de Estoque.
 
 ---
-### Estatísticas no GitHub
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexandroLeao&show_icons=true&theme=onedark&count_private=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandroLeao&layout=compact&theme=onedark" alt="Linguagens mais utilizadas" />
-</div>
-
----
 ### Redes & Links
 ---
 
