@@ -56,4 +56,4 @@ Explore my background, experience, technical details, and additional work at **[
   <a href="https://github.com/AlexandroLeao?tab=repositories"><img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexandroLeao&theme=github_dark" alt="Languages used across public repositories" /></a>
 </p>
 
-<p align="center"><em>Transformando código em soluções.</em></p>
+<p align="center"><em>Turning code into solutions.</em></p>
