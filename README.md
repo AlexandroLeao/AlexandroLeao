@@ -36,7 +36,7 @@ A retro-inspired full-stack RPG character creator with a six-stage flow, eight c
 **[Ideas & Projects Organizer](https://github.com/AlexandroLeao/app-project-ideias)** · [Live app](https://app-project-ideias.vercel.app/)  
 A React/TypeScript productivity app for organizing ideas and projects with priorities, categories, filters, favorites, and progress tracking.
 
-**[Natsu Matsuri Project](https://github.com/AlexandroLeao/Natsu-Matsuri-Project)** · [Live app](https://alexandroleao.github.io/Natsu-Matsuri-Project/)  
+**[Natsu Matsuri Project](https://github.com/AlexandroLeao/natsu-matsuri-project)** · [Live app](https://alexandroleao.github.io/natsu-matsuri-project/)  
 A React/JavaScript financial tracking system designed around event sales, transactions, and balance monitoring.
 
 Explore my background, experience, technical details, and additional work at **[alexandroleao.com.br](https://alexandroleao.com.br/)**.
