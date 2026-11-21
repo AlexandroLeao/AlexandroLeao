@@ -14,10 +14,10 @@
 ## Core stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,postgres,supabase,java,tailwind,vite,git,githubactions,docker,vercel&perline=14" alt="React, TypeScript, JavaScript, Node.js, Express, PostgreSQL, Supabase, Java, Tailwind CSS, Vite, Git, GitHub Actions, Docker and Vercel" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,nestjs,py,fastapi,postgres,prisma,supabase,java,tailwind,vite,git,githubactions,docker,vercel&perline=14" alt="React, Next.js, TypeScript, JavaScript, Node.js, Express, NestJS, Python, FastAPI, PostgreSQL, Prisma, Supabase, Java, Tailwind CSS, Vite, Git, GitHub Actions, Docker and Vercel" />
 </p>
 
-<p align="center"><strong>Frontend</strong> · <strong>REST APIs</strong> · <strong>Databases</strong> · <strong>Software Engineering</strong> · <strong>CI/CD</strong></p>
+<p align="center"><strong>Frontend</strong> · <strong>REST APIs</strong> · <strong>Databases</strong> · <strong>Applied AI</strong> · <strong>Software Engineering</strong> · <strong>CI/CD</strong></p>
 
 ## About
 
@@ -29,6 +29,9 @@ I value thoughtful architecture, automated testing, accessibility, technical doc
 
 **[Developer Portfolio](https://github.com/AlexandroLeao/developer-portfolio)** · [Live site](https://alexandroleao.com.br/)  
 A bilingual, responsive React/TypeScript portfolio with automated tests, SEO, accessibility improvements, Docker, and GitHub Actions/Vercel CI/CD. Reported **100/100 across all four PageSpeed Insights categories** in a November 9, 2026 production audit.
+
+**[AMI-108](https://github.com/AlexandroLeao/ami-108)** · [Live game](https://ami-108.vercel.app/game)  
+An original bilingual (PT-BR/EN), five-chapter narrative survival game with branching choices, checkpoints, persistent saves and a constrained AI companion. Built with Next.js, NestJS/Prisma, Python/FastAPI and PostgreSQL, with server-authoritative gameplay, validated Groq AI responses and GitHub Actions CI.
 
 **[Adventure Files](https://github.com/AlexandroLeao/rpg-character-creator)** · [Live app](https://adventure-files-staging.vercel.app/)  
 A retro-inspired full-stack RPG character creator with a six-stage flow, eight classes, two PNG export layouts, Node.js/Express REST API, Supabase Auth, PostgreSQL, and RLS. Includes frontend, API, database security and end-to-end tests; the hosted frontend previously received **grade A on SecurityHeaders.com**.
@@ -45,6 +48,7 @@ Explore my background, experience, technical details, and additional work at **[
 
 - **Quality and performance:** reported **100/100 in all four PageSpeed Insights categories** in a November 9, 2026 production audit of my portfolio, with responsive images, optimized local fonts, accessibility improvements, and SEO metadata.
 - **Full-stack delivery:** built Adventure Files from its bilingual React interface to its authenticated Express API, PostgreSQL persistence, and user-scoped Row Level Security policies.
+- **Controlled AI integration:** AMI-108 uses server-authoritative game mechanics and constrained Groq inference to select approved bilingual dialogue, validate model responses, persist consultations for replay, and fall back to authored text when needed.
 - **Automated validation:** developed and maintained **74 portfolio Vitest tests** and **21 Chromium checks**, plus Adventure Files suites covering **183 frontend tests**, **133 API tests** (two opt-in cases skipped separately), **39 pgTAP assertions**, and **3 full-stack Chromium scenarios**, as documented on November 12, 2026.
 - **Security and documentation:** Adventure Files previously received a **SecurityHeaders.com grade A** in a hosted check; my projects document architecture and workflows with UML diagrams, requirements, and technical decisions.
 - **Development workflow:** use Issues, feature branches, Pull Requests, GitHub Actions, Docker validation, and deployment previews to review changes before production releases.
