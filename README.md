@@ -14,50 +14,79 @@
 ## Core stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,nestjs,py,fastapi,postgres,prisma,supabase,java,tailwind,vite,git,githubactions,docker,vercel&perline=14" alt="React, Next.js, TypeScript, JavaScript, Node.js, Express, NestJS, Python, FastAPI, PostgreSQL, Prisma, Supabase, Java, Tailwind CSS, Vite, Git, GitHub Actions, Docker and Vercel" />
+  <img src="./assets/core-stack.svg" width="442" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, Node.js, NestJS, Python, FastAPI, Prisma, PostgreSQL, Groq, Docker, GitHub Actions and Vercel" />
 </p>
 
-<p align="center"><strong>Frontend</strong> · <strong>REST APIs</strong> · <strong>Databases</strong> · <strong>Applied AI</strong> · <strong>Software Engineering</strong> · <strong>CI/CD</strong></p>
+<p align="center"><strong>Full-Stack Development</strong> · <strong>Applied AI</strong> · <strong>REST APIs &amp; Data</strong> · <strong>Software Engineering</strong> · <strong>CI/CD</strong></p>
 
 ## About
 
-I'm a **Software Developer** with a degree in **Systems Analysis and Development**. I enjoy turning real problems into useful applications, from responsive web interfaces to authenticated REST APIs and persistent data.
+I'm a **Software Developer** with a degree in **Systems Analysis and Development**. I turn real problems into useful, reliable software, from responsive web interfaces to secure REST APIs, PostgreSQL persistence and real AI integrations.
 
-I value thoughtful architecture, automated testing, accessibility, technical documentation, and continuous improvement. I'm currently deepening my knowledge of **backend development, Java, cloud computing, and software engineering**.
+I've built tools that improve sales workflows, full-stack applications with authentication and database security, and bilingual interactive experiences with controlled LLM inference. I value **architecture, accessibility, automated testing and CI/CD**, with **453 documented passing tests and checks** across two projects in November 2026.
 
-## Selected projects
+## Featured projects
 
-**[Developer Portfolio](https://github.com/AlexandroLeao/developer-portfolio)** · [Live site](https://alexandroleao.com.br/)  
-A bilingual, responsive React/TypeScript portfolio with automated tests, SEO, accessibility improvements, Docker, and GitHub Actions/Vercel CI/CD. Reported **100/100 across all four PageSpeed Insights categories** in a November 9, 2026 production audit.
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <a href="https://ami-108.vercel.app/game">
+        <img src="https://raw.githubusercontent.com/AlexandroLeao/developer-portfolio/main/public/images/projects/ami-108-640.webp" width="260" alt="AMI-108 retrofuturistic survival game artwork" />
+      </a>
+      <br />
+      <strong>AMI-108</strong>
+      <br />
+      <sub>Applied AI · Full-Stack</sub>
+      <p align="left">A five-chapter bilingual survival game with branching choices and saved progress. A real Groq-powered AI companion selects validated, approved dialogue with safe fallback and server-controlled game rules.</p>
+      <p><sub>Next.js · NestJS · Python / FastAPI · Prisma · PostgreSQL · Groq</sub></p>
+      <a href="https://github.com/AlexandroLeao/ami-108">Code</a> · <a href="https://ami-108.vercel.app/game">Play</a>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <a href="https://adventure-files-staging.vercel.app/">
+        <img src="https://raw.githubusercontent.com/AlexandroLeao/developer-portfolio/main/public/images/projects/adventure-files-640.webp" width="260" alt="Adventure Files character creator artwork" />
+      </a>
+      <br />
+      <strong>Adventure Files</strong>
+      <br />
+      <sub>Full-Stack · Security</sub>
+      <p align="left">A bilingual RPG character creator with eight classes, a six-stage flow, authenticated saves and PNG exports. API authorization, PostgreSQL RLS and automated tests protect user data.</p>
+      <p><sub>React · TypeScript · Express · Supabase · PostgreSQL · Playwright</sub></p>
+      <a href="https://github.com/AlexandroLeao/rpg-character-creator">Code</a> · <a href="https://adventure-files-staging.vercel.app/">Live app</a>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <a href="https://alexandroleao.com.br/">
+        <img src="https://raw.githubusercontent.com/AlexandroLeao/developer-portfolio/main/public/social-preview.png" width="260" alt="Developer Portfolio social preview" />
+      </a>
+      <br />
+      <strong>Developer Portfolio</strong>
+      <br />
+      <sub>Frontend · Quality · DevOps</sub>
+      <p align="left">A bilingual, accessible and responsive portfolio with optimized assets, SEO and automated quality checks. Docker and GitHub Actions support reliable builds and Vercel deployment.</p>
+      <p><sub>React · TypeScript · Vite · Tailwind CSS · Vitest · Docker</sub></p>
+      <a href="https://github.com/AlexandroLeao/developer-portfolio">Code</a> · <a href="https://alexandroleao.com.br/">Live site</a>
+    </td>
+  </tr>
+</table>
 
-**[AMI-108](https://github.com/AlexandroLeao/ami-108)** · [Live game](https://ami-108.vercel.app/game)  
-An original bilingual (PT-BR/EN), five-chapter narrative survival game with branching choices, checkpoints, persistent saves and a constrained AI companion. Built with Next.js, NestJS/Prisma, Python/FastAPI and PostgreSQL, with server-authoritative gameplay, validated Groq AI responses and GitHub Actions CI.
+**More projects:** [Ideas & Projects Organizer](https://github.com/AlexandroLeao/app-project-ideias) ([live](https://app-project-ideias.vercel.app/)) · [Natsu Matsuri Project](https://github.com/AlexandroLeao/natsu-matsuri-project) ([live](https://alexandroleao.github.io/natsu-matsuri-project/)).
 
-**[Adventure Files](https://github.com/AlexandroLeao/rpg-character-creator)** · [Live app](https://adventure-files-staging.vercel.app/)  
-A retro-inspired full-stack RPG character creator with a six-stage flow, eight classes, two PNG export layouts, Node.js/Express REST API, Supabase Auth, PostgreSQL, and RLS. Includes frontend, API, database security and end-to-end tests; the hosted frontend previously received **grade A on SecurityHeaders.com**.
-
-**[Ideas & Projects Organizer](https://github.com/AlexandroLeao/app-project-ideias)** · [Live app](https://app-project-ideias.vercel.app/)  
-A React/TypeScript and TanStack Start productivity app for organizing ideas and projects with priorities, categories, filters, favorites, browser-local storage, and private cloud attachments.
-
-**[Natsu Matsuri Project](https://github.com/AlexandroLeao/natsu-matsuri-project)** · [Live app](https://alexandroleao.github.io/natsu-matsuri-project/)  
-A React/JavaScript financial tracking system designed around event sales, transactions, and balance monitoring.
-
-Explore my background, experience, technical details, and additional work at **[alexandroleao.com.br](https://alexandroleao.com.br/)**.
-
-## Engineering highlights
-
-- **Quality and performance:** reported **100/100 in all four PageSpeed Insights categories** in a November 9, 2026 production audit of my portfolio, with responsive images, optimized local fonts, accessibility improvements, and SEO metadata.
-- **Full-stack delivery:** built Adventure Files from its bilingual React interface to its authenticated Express API, PostgreSQL persistence, and user-scoped Row Level Security policies.
-- **Controlled AI integration:** AMI-108 uses server-authoritative game mechanics and constrained Groq inference to select approved bilingual dialogue, validate model responses, persist consultations for replay, and fall back to authored text when needed.
-- **Automated validation:** developed and maintained **74 portfolio Vitest tests** and **21 Chromium checks**, plus Adventure Files suites covering **183 frontend tests**, **133 API tests** (two opt-in cases skipped separately), **39 pgTAP assertions**, and **3 full-stack Chromium scenarios**, as documented on November 12, 2026.
-- **Security and documentation:** Adventure Files previously received a **SecurityHeaders.com grade A** in a hosted check; my projects document architecture and workflows with UML diagrams, requirements, and technical decisions.
-- **Development workflow:** use Issues, feature branches, Pull Requests, GitHub Actions, Docker validation, and deployment previews to review changes before production releases.
+Explore my experience, project details and documentation at **[alexandroleao.com.br](https://alexandroleao.com.br/)**.
 
 ## GitHub activity
 
 <p align="center">
-  <a href="https://github.com/AlexandroLeao"><img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexandroLeao&theme=github_dark" alt="GitHub contribution statistics" /></a>
-  <a href="https://github.com/AlexandroLeao?tab=repositories"><img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexandroLeao&theme=github_dark" alt="Languages used across public repositories" /></a>
+  <a href="https://github.com/AlexandroLeao">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexandroLeao&amp;theme=github_dark" />
+      <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexandroLeao&amp;theme=github" alt="GitHub contribution statistics" />
+    </picture>
+  </a>
+  <a href="https://github.com/AlexandroLeao?tab=repositories">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexandroLeao&amp;theme=github_dark" />
+      <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexandroLeao&amp;theme=github" alt="Languages used across public GitHub repositories" />
+    </picture>
+  </a>
 </p>
 
 <p align="center"><em>Turning code into solutions.</em></p>
