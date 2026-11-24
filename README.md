@@ -11,8 +11,12 @@
   </p>
 </div>
 
----
-## Core stack
+<h3 align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/sections/core-stack-mobile.svg" />
+    <img src="./assets/sections/core-stack.svg" width="880" alt="Core stack" />
+  </picture>
+</h3>
 
 <p align="center">
   <img src="./assets/core-stack.svg" width="781" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, Node.js, NestJS, Python, FastAPI, Prisma, PostgreSQL, Groq, Docker, GitHub Actions and Vercel" />
@@ -25,9 +29,12 @@
   </picture>
 </p>
 
----
-
-## About
+<h3 align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/sections/about-mobile.svg" />
+    <img src="./assets/sections/about.svg" width="880" alt="About" />
+  </picture>
+</h3>
 
 <p align="center">
   <picture>
@@ -36,9 +43,12 @@
   </picture>
 </p>
 
----
-
-## Featured projects
+<h3 align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/sections/featured-projects-mobile.svg" />
+    <img src="./assets/sections/featured-projects.svg" width="880" alt="Featured projects" />
+  </picture>
+</h3>
 
 <p align="center">
   <a href="https://ami-108.vercel.app/game">
@@ -67,7 +77,12 @@
   </a>
 </p>
 
-## GitHub activity
+<h3 align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/sections/github-activity-mobile.svg" />
+    <img src="./assets/sections/github-activity.svg" width="880" alt="GitHub activity" />
+  </picture>
+</h3>
 
 <p align="center">
   <a href="https://github.com/AlexandroLeao">
@@ -78,4 +93,9 @@
   </a>
 </p>
 
-<p align="center"><em>Turning code into solutions.</em></p>
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/sections/signature-mobile.svg" />
+    <img src="./assets/sections/signature.svg" width="880" alt="Turning code into solutions." />
+  </picture>
+</p>
