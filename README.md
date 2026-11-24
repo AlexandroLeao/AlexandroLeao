@@ -58,7 +58,6 @@ My experience includes business-focused web tools, secure data workflows and AI-
     </picture>
   </a>
 </p>
----
 
 ## GitHub activity
 
