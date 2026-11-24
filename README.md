@@ -32,44 +32,42 @@ My experience includes business-focused web tools, secure data workflows and AI-
 
 ## Featured projects
 
-### [AMI-108](https://ami-108.vercel.app/game)
+<p align="center">
+  <a href="https://ami-108.vercel.app/game">
+    <picture>
+      <source media="(max-width: 600px)" srcset="./assets/projects/ami-108-mobile.svg" />
+      <img src="./assets/projects/ami-108.svg" width="880" alt="AMI-108 — Bilingual survival game with five chapters, meaningful choices, persistent progress, validated Groq AI dialogue and server-controlled rules. Stack: Next.js, NestJS, Python, FastAPI, Prisma, PostgreSQL and Groq." />
+    </picture>
+  </a>
+</p>
 
-A bilingual, five-chapter post-apocalyptic survival game with meaningful choices, persistent progress and an AI companion. Real Groq inference selects validated, approved dialogue with safe fallback and server-controlled game rules.
+<p align="center">
+  <a href="https://adventure-files-staging.vercel.app/">
+    <picture>
+      <source media="(max-width: 600px)" srcset="./assets/projects/adventure-files-mobile.svg" />
+      <img src="./assets/projects/adventure-files.svg" width="880" alt="Adventure Files — Bilingual RPG character creator, eight classes, authenticated saves, PNG exports, API authorization and PostgreSQL RLS. Stack: React, TypeScript, Express, Supabase, PostgreSQL and Playwright." />
+    </picture>
+  </a>
+</p>
 
-**Stack:** Next.js · NestJS · Python · FastAPI · Prisma · PostgreSQL · Groq
-
----
-
-### [Adventure Files](https://adventure-files-staging.vercel.app/)
-
-A bilingual full-stack RPG character creator with eight classes, a guided creation flow, authenticated saves and PNG exports. API authorization and PostgreSQL Row Level Security protect user data.
-
-**Stack:** React · TypeScript · Express · Supabase · PostgreSQL · Playwright
-
----
-
-### [Developer Portfolio](https://alexandroleao.com.br/)
-
-A bilingual, accessible and responsive professional portfolio with optimized assets, SEO and automated quality checks. Docker and GitHub Actions support consistent builds and deployment.
-
-**Stack:** React · TypeScript · Vite · Tailwind CSS · Vitest · Docker
-
+<p align="center">
+  <a href="https://alexandroleao.com.br/">
+    <picture>
+      <source media="(max-width: 600px)" srcset="./assets/projects/developer-portfolio-mobile.svg" />
+      <img src="./assets/projects/developer-portfolio.svg" width="880" alt="Developer Portfolio — Bilingual accessible responsive portfolio with optimized assets, SEO, automated quality checks, Docker and GitHub Actions. Stack: React, TypeScript, Vite, Tailwind CSS, Vitest and Docker." />
+    </picture>
+  </a>
+</p>
 ---
 
 ## GitHub activity
 
 <p align="center">
   <a href="https://github.com/AlexandroLeao">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexandroLeao&amp;theme=github_dark" />
-      <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexandroLeao&amp;theme=github" alt="GitHub contribution statistics" />
-    </picture>
+    <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexandroLeao&amp;theme=github_dark&amp;bg_color=102F2C&amp;title_color=C9F2DF&amp;text_color=F7F2DF&amp;border_color=3A665A&amp;icon_color=83CDB7&amp;chart_color=83CDB7" alt="GitHub activity statistics in the AL profile colors" />
   </a>
   <a href="https://github.com/AlexandroLeao?tab=repositories">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexandroLeao&amp;theme=github_dark" />
-      <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexandroLeao&amp;theme=github" alt="Languages used across public GitHub repositories" />
-    </picture>
+    <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexandroLeao&amp;theme=github_dark&amp;bg_color=102F2C&amp;title_color=C9F2DF&amp;text_color=F7F2DF&amp;border_color=3A665A&amp;icon_color=83CDB7&amp;chart_color=83CDB7" alt="Repository languages in the AL profile colors" />
   </a>
 </p>
 
