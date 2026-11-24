@@ -11,10 +11,14 @@
   </p>
 </div>
 
+<div align="center">
+  <img src="./assets/sections/divider.svg" width="880" alt="" />
+</div>
+
 <h3 align="center">
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/sections/core-stack-mobile.svg" />
-    <img src="./assets/sections/core-stack.svg" width="880" alt="Core stack" />
+    <img src="./assets/sections/core-stack.svg" width="880" alt="CORE STACK" />
   </picture>
 </h3>
 
@@ -29,10 +33,14 @@
   </picture>
 </p>
 
+<div align="center">
+  <img src="./assets/sections/divider.svg" width="880" alt="" />
+</div>
+
 <h3 align="center">
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/sections/about-mobile.svg" />
-    <img src="./assets/sections/about.svg" width="880" alt="About" />
+    <img src="./assets/sections/about.svg" width="880" alt="ABOUT" />
   </picture>
 </h3>
 
@@ -43,10 +51,14 @@
   </picture>
 </p>
 
+<div align="center">
+  <img src="./assets/sections/divider.svg" width="880" alt="" />
+</div>
+
 <h3 align="center">
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/sections/featured-projects-mobile.svg" />
-    <img src="./assets/sections/featured-projects.svg" width="880" alt="Featured projects" />
+    <img src="./assets/sections/featured-projects.svg" width="880" alt="FEATURED PROJECTS" />
   </picture>
 </h3>
 
@@ -77,10 +89,14 @@
   </a>
 </p>
 
+<div align="center">
+  <img src="./assets/sections/divider.svg" width="880" alt="" />
+</div>
+
 <h3 align="center">
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/sections/github-activity-mobile.svg" />
-    <img src="./assets/sections/github-activity.svg" width="880" alt="GitHub activity" />
+    <img src="./assets/sections/github-activity.svg" width="880" alt="GITHUB ACTIVITY" />
   </picture>
 </h3>
 
@@ -92,6 +108,10 @@
     <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexandroLeao&amp;theme=github_dark&amp;bg_color=102F2C&amp;title_color=C9F2DF&amp;text_color=F7F2DF&amp;border_color=3A665A&amp;icon_color=83CDB7&amp;chart_color=83CDB7" alt="Repository languages in the AL profile colors" />
   </a>
 </p>
+
+<div align="center">
+  <img src="./assets/sections/divider.svg" width="880" alt="" />
+</div>
 
 <p align="center">
   <picture>
