@@ -18,15 +18,23 @@
   <img src="./assets/core-stack.svg" width="781" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, Node.js, NestJS, Python, FastAPI, Prisma, PostgreSQL, Groq, Docker, GitHub Actions and Vercel" />
 </p>
 
-<p align="center"><strong>Full-Stack Development</strong> · <strong>Applied AI</strong> · <strong>REST APIs &amp; Data</strong> · <strong>Software Engineering</strong> · <strong>CI/CD</strong></p>
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/core-focus-mobile.svg" />
+    <img src="./assets/core-focus.svg" width="880" alt="Full-Stack Development · Applied AI · REST APIs &amp; Data · Software Engineering · CI/CD" />
+  </picture>
+</p>
 
 ---
 
 ## About
 
-I'm a Software Developer with a degree in Systems Analysis and Development. I turn practical needs into reliable, accessible software, combining full-stack development, REST APIs, databases and applied AI.
-
-My experience includes business-focused web tools, secure data workflows and AI-powered features. I approach development from understanding requirements and designing solutions to automated testing, documentation and deployment.
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/about-card-mobile.svg" />
+    <img src="./assets/about-card.svg" width="880" alt="I'm a Software Developer with a degree in Systems Analysis and Development. I turn practical needs into reliable, accessible software, combining full-stack development, REST APIs, databases and applied AI. My experience includes business-focused web tools, secure data workflows and AI-powered features. I approach development from understanding requirements and designing solutions to automated testing, documentation and deployment." />
+  </picture>
+</p>
 
 ---
 
